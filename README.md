@@ -79,10 +79,6 @@ NextHire.ai/
 <<<<<<< HEAD
 git clone https://github.com/your-username/NextHire.ai.git 
 cd NextHire.ai
-=======
-git clone https://github.com/amanraj2205/ChatBot_with_RAG.git
-cd interview-ai-yt
->>>>>>> f83629bb013b3f1421bb9407ca3b445406a75902
 ```
 
 ### 2. Backend Setup

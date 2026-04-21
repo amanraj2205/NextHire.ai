@@ -45,7 +45,7 @@ An advanced, end-to-end full-stack MERN application that leverages the **Google 
 ## 📂 Architecture Overview
 
 ```text
-interview-ai-yt/
+NextHire.ai/
 ├── Backend/                 # Express backend server
 │   ├── src/
 │   │   ├── config/          # Database configuration (MongoDB)
@@ -76,8 +76,8 @@ interview-ai-yt/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/interview-ai-yt.git
-cd interview-ai-yt
+git clone https://github.com/your-username/NextHire.ai.git 
+cd NextHire.ai
 ```
 
 ### 2. Backend Setup
